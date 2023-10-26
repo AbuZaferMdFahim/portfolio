@@ -309,25 +309,25 @@ section {
   width: 60%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .html {
-  width: 90%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .css {
-  width: 95%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .js {
-  width: 85%;
-}
-.about-stats .progress-bars .progress-bar .progress-con .progress .react {
   width: 80%;
 }
-.about-stats .progress-bars .progress-bar .progress-con .progress .node {
-  width: 75%;
+.about-stats .progress-bars .progress-bar .progress-con .progress .css {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .js {
+  width: 80%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .react {
+  width: 60%;
+}
+.about-stats .progress-bars .progress-bar .progress-con .progress .django {
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .python {
-  width: 75%;
+  width: 80%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .android {
-  width: 95%;
+  width: 85%;
 }
 .about-stats .progress-bars .progress-bar .progress-con .progress .cPlus {
   width: 75%;
